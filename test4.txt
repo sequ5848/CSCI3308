@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is actually the second text
+=======
+This is the fourth test, in TNF branch.
+>>>>>>> 8d8520d695a9ca1a91aaa87889f8cdbb76f78437

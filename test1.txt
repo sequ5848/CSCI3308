@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 This is text one
 This is an edit to text one. 
+=======
+This is the first test file.
+
+But now edited.
+
+>>>>>>> 8d8520d695a9ca1a91aaa87889f8cdbb76f78437
