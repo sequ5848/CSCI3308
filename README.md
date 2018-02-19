@@ -1,2 +1,3 @@
 # CSCI3308
-This is my README item. 
+Selena Quintanilla 
+CSCI 3308: Lab 5
